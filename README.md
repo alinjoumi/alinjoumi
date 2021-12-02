@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Any project**
 
-- 🤝 I’m looking for help with **....**
-
 - 💬 Ask me about **Any thing**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ali-njoumi-a07b90210/**
