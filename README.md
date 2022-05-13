@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Njoumi</h1>
 <h3 align="center">A passionate web and mobile developer from Tunisian</h3>
 
-- 🔭 I’m currently working on **DimouApp project**
+- 🔭 I’m currently working on ** IOT Project**
 
 - 🌱 I’m currently learning **Sup'Com**
 
